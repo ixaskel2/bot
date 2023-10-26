@@ -1,0 +1,126 @@
+10/26/2023 03:08:40 AM : libssl.py line - 79 : <module> : telethon.crypto.libssl : INFO : Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+10/26/2023 03:08:40 AM : aes.py line - 25 : <module> : telethon.crypto.aes : INFO : cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+10/26/2023 03:08:41 AM : mtprotosender.py line - 228 : _connect : telethon.network.mtprotosender : INFO : Connecting to 149.154.167.51:443/TcpFull...
+10/26/2023 03:08:41 AM : mtprotosender.py line - 279 : _connect : telethon.network.mtprotosender : INFO : Connection to 149.154.167.51:443/TcpFull complete!
+10/26/2023 03:08:51 AM : executor.py line - 362 : _welcome : aiogram : INFO : Bot: Hot Tropics [@tropicshotshop_bot]
+10/26/2023 03:08:52 AM : dispatcher.py line - 358 : start_polling : aiogram.dispatcher.dispatcher : INFO : Start polling.
+10/26/2023 03:09:03 AM : _client.py line - 1013 : _send_single_request : httpx : INFO : HTTP Request: PUT https://api.qiwi.com/partner/bill/v1/bills/WhiteApfel-PyQiwiP2P-27894311-484 "HTTP/1.1 200 OK"
+10/26/2023 03:09:08 AM : _client.py line - 1013 : _send_single_request : httpx : INFO : HTTP Request: POST https://api.qiwi.com/partner/bill/v1/bills/WhiteApfel-PyQiwiP2P-27894311-484/reject "HTTP/1.1 200 OK"
+10/26/2023 03:09:40 AM : _client.py line - 1013 : _send_single_request : httpx : INFO : HTTP Request: PUT https://api.qiwi.com/partner/bill/v1/bills/WhiteApfel-PyQiwiP2P-27898076-884 "HTTP/1.1 200 OK"
+10/26/2023 03:09:49 AM : _client.py line - 1013 : _send_single_request : httpx : INFO : HTTP Request: POST https://api.qiwi.com/partner/bill/v1/bills/WhiteApfel-PyQiwiP2P-27898076-884/reject "HTTP/1.1 200 OK"
+10/26/2023 03:10:10 AM : _client.py line - 1013 : _send_single_request : httpx : INFO : HTTP Request: PUT https://api.qiwi.com/partner/bill/v1/bills/WhiteApfel-PyQiwiP2P-27901023-146 "HTTP/1.1 200 OK"
+10/26/2023 03:10:13 AM : _client.py line - 1013 : _send_single_request : httpx : INFO : HTTP Request: POST https://api.qiwi.com/partner/bill/v1/bills/WhiteApfel-PyQiwiP2P-27901023-146/reject "HTTP/1.1 200 OK"
+10/26/2023 03:10:23 AM : _client.py line - 1013 : _send_single_request : httpx : INFO : HTTP Request: PUT https://api.qiwi.com/partner/bill/v1/bills/WhiteApfel-PyQiwiP2P-27902352-823 "HTTP/1.1 200 OK"
+10/26/2023 03:10:30 AM : _client.py line - 1013 : _send_single_request : httpx : INFO : HTTP Request: POST https://api.qiwi.com/partner/bill/v1/bills/WhiteApfel-PyQiwiP2P-27902352-823/reject "HTTP/1.1 200 OK"
+10/26/2023 03:11:27 AM : _client.py line - 1013 : _send_single_request : httpx : INFO : HTTP Request: PUT https://api.qiwi.com/partner/bill/v1/bills/WhiteApfel-PyQiwiP2P-27908717-187 "HTTP/1.1 200 OK"
+10/26/2023 03:11:31 AM : _client.py line - 1013 : _send_single_request : httpx : INFO : HTTP Request: POST https://api.qiwi.com/partner/bill/v1/bills/WhiteApfel-PyQiwiP2P-27908717-187/reject "HTTP/1.1 200 OK"
+10/26/2023 03:11:56 AM : _client.py line - 1013 : _send_single_request : httpx : INFO : HTTP Request: PUT https://api.qiwi.com/partner/bill/v1/bills/WhiteApfel-PyQiwiP2P-27911679-320 "HTTP/1.1 200 OK"
+10/26/2023 03:12:01 AM : _client.py line - 1013 : _send_single_request : httpx : INFO : HTTP Request: POST https://api.qiwi.com/partner/bill/v1/bills/WhiteApfel-PyQiwiP2P-27911679-320/reject "HTTP/1.1 200 OK"
+10/26/2023 03:12:15 AM : updates.py line - 344 : _update_loop : telethon.client.updates : INFO : Got difference for account updates
+10/26/2023 03:32:45 AM : updates.py line - 344 : _update_loop : telethon.client.updates : INFO : Got difference for account updates
+10/26/2023 03:33:46 AM : _client.py line - 1013 : _send_single_request : httpx : INFO : HTTP Request: PUT https://api.qiwi.com/partner/bill/v1/bills/WhiteApfel-PyQiwiP2P-28042651-161 "HTTP/1.1 200 OK"
+10/26/2023 03:34:10 AM : _client.py line - 1013 : _send_single_request : httpx : INFO : HTTP Request: POST https://api.qiwi.com/partner/bill/v1/bills/WhiteApfel-PyQiwiP2P-28042651-161/reject "HTTP/1.1 200 OK"
+10/26/2023 03:36:52 AM : _client.py line - 1013 : _send_single_request : httpx : INFO : HTTP Request: PUT https://api.qiwi.com/partner/bill/v1/bills/WhiteApfel-PyQiwiP2P-28061190-8 "HTTP/1.1 200 OK"
+10/26/2023 03:37:43 AM : _client.py line - 1013 : _send_single_request : httpx : INFO : HTTP Request: POST https://api.qiwi.com/partner/bill/v1/bills/WhiteApfel-PyQiwiP2P-28061190-8/reject "HTTP/1.1 200 OK"
+10/26/2023 03:38:59 AM : updates.py line - 344 : _update_loop : telethon.client.updates : INFO : Got difference for account updates
+10/26/2023 03:40:48 AM : _client.py line - 1013 : _send_single_request : httpx : INFO : HTTP Request: PUT https://api.qiwi.com/partner/bill/v1/bills/WhiteApfel-PyQiwiP2P-28084888-493 "HTTP/1.1 200 OK"
+10/26/2023 03:40:55 AM : _client.py line - 1013 : _send_single_request : httpx : INFO : HTTP Request: POST https://api.qiwi.com/partner/bill/v1/bills/WhiteApfel-PyQiwiP2P-28084888-493/reject "HTTP/1.1 200 OK"
+10/26/2023 03:41:01 AM : updates.py line - 344 : _update_loop : telethon.client.updates : INFO : Got difference for account updates
+10/26/2023 03:45:55 AM : updates.py line - 344 : _update_loop : telethon.client.updates : INFO : Got difference for account updates
+10/26/2023 04:04:48 AM : updates.py line - 344 : _update_loop : telethon.client.updates : INFO : Got difference for account updates
+10/26/2023 04:18:54 AM : base_events.py line - 1771 : default_exception_handler : asyncio : ERROR : Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<timer() done, defined at C:\Users\Администратор\AppData\Roaming\Adobe\Новая папка\handlers\users\echo.py:492> exception=BotBlocked('Forbidden: bot was blocked by the user')>
+Traceback (most recent call last):
+  File "C:\Users\Администратор\AppData\Roaming\Adobe\Новая папка\handlers\users\echo.py", line 516, in timer
+    await bot.send_message(chat_id=info_staff[0], text=f"\U0001f935\u200d\u2642\ufe0f <code>Заказ #{info_staff[1]} | {info_staff[4][2:]} осталось {time_to_pay} мин. на оплату...</code>")
+  File "C:\Python311\Lib\site-packages\aiogram\bot\bot.py", line 346, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python311\Lib\site-packages\aiogram\bot\base.py", line 236, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python311\Lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python311\Lib\site-packages\aiogram\bot\api.py", line 121, in check_result
+    exceptions.Unauthorized.detect(description)
+  File "C:\Python311\Lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.BotBlocked: Forbidden: bot was blocked by the user
+10/26/2023 04:59:27 AM : updates.py line - 344 : _update_loop : telethon.client.updates : INFO : Got difference for account updates
+10/26/2023 06:12:33 PM : libssl.py line - 79 : <module> : telethon.crypto.libssl : INFO : Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+10/26/2023 06:12:33 PM : aes.py line - 25 : <module> : telethon.crypto.aes : INFO : cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+10/26/2023 06:12:33 PM : mtprotosender.py line - 228 : _connect : telethon.network.mtprotosender : INFO : Connecting to 149.154.167.51:443/TcpFull...
+10/26/2023 06:12:33 PM : mtprotosender.py line - 279 : _connect : telethon.network.mtprotosender : INFO : Connection to 149.154.167.51:443/TcpFull complete!
+10/26/2023 06:16:59 PM : libssl.py line - 79 : <module> : telethon.crypto.libssl : INFO : Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+10/26/2023 06:16:59 PM : aes.py line - 25 : <module> : telethon.crypto.aes : INFO : cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+10/26/2023 06:17:00 PM : mtprotosender.py line - 228 : _connect : telethon.network.mtprotosender : INFO : Connecting to 149.154.167.51:443/TcpFull...
+10/26/2023 06:17:00 PM : mtprotosender.py line - 279 : _connect : telethon.network.mtprotosender : INFO : Connection to 149.154.167.51:443/TcpFull complete!
+10/26/2023 06:17:04 PM : executor.py line - 362 : _welcome : aiogram : INFO : Bot: testbot [@teststeyeytt_bot]
+10/26/2023 06:17:04 PM : notify_admins.py line - 14 : on_startup_notify : root : ERROR : Chat not found
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\bot\utils\notify_admins.py", line 11, in on_startup_notify
+    await dp.bot.send_message(admin, "Эу, Админ, Бот Запущен, рекламь и зарабатывай бабки, с любовью кодер\u2764\ufe0f")
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\bot\bot.py", line 346, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\bot\base.py", line 236, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.ChatNotFound: Chat not found
+10/26/2023 06:17:04 PM : dispatcher.py line - 359 : start_polling : aiogram.dispatcher.dispatcher : INFO : Start polling.
+10/26/2023 06:17:51 PM : error_handler.py line - 49 : errors_handler : root : ERROR : TelegramAPIError: Chat not found 
+Update: {"update_id": 58284852, "message": {"message_id": 1, "from": {"id": 6849915247, "is_bot": false, "first_name": "HotTropics", "last_name": "Работа", "username": "tropics_job", "language_code": "ru"}, "chat": {"id": 6849915247, "first_name": "HotTropics", "last_name": "Работа", "username": "tropics_job", "type": "private"}, "date": 1698344270, "text": "/start", "entities": [{"type": "bot_command", "offset": 0, "length": 6}]}}
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 257, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Administrator\Desktop\bot\handlers\users\start.py", line 20, in bot_start
+    await bot.send_message(chat_id=LOGS_CHAT, text=f'\U0001f418 В нашем боте новый пользователь: <a href="tg://user?id={message.chat.id}">{message.from_user.full_name}</a>\n'
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\bot\bot.py", line 346, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\bot\base.py", line 236, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.ChatNotFound: Chat not found
+10/26/2023 06:18:23 PM : _client.py line - 1013 : _send_single_request : httpx : INFO : HTTP Request: PUT https://api.qiwi.com/partner/bill/v1/bills/WhiteApfel-PyQiwiP2P-33350343-894 "HTTP/1.1 200 OK"
+10/26/2023 06:18:24 PM : error_handler.py line - 49 : errors_handler : root : ERROR : TelegramAPIError: Chat not found 
+Update: {"update_id": 58284858, "message": {"message_id": 13, "from": {"id": 6849915247, "is_bot": false, "first_name": "HotTropics", "last_name": "Работа", "username": "tropics_job", "language_code": "ru"}, "chat": {"id": 6849915247, "first_name": "HotTropics", "last_name": "Работа", "username": "tropics_job", "type": "private"}, "date": 1698344292, "text": "\u267b\ufe0f Выбрать район автоматически"}}
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 257, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Administrator\Desktop\bot\handlers\users\echo.py", line 145, in send_buy_info
+    await bot.send_message(chat_id=LOGS_CHAT, text=f"\U0001f9d9\u200d\u2642\ufe0f Пользователь <a href='tg://user?id={message.chat.id}'>{message.from_user.full_name}</a> находится в меню оплаты\n"
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\bot\bot.py", line 346, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\bot\base.py", line 236, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.ChatNotFound: Chat not found
+10/26/2023 06:18:44 PM : _client.py line - 1013 : _send_single_request : httpx : INFO : HTTP Request: POST https://api.qiwi.com/partner/bill/v1/bills/WhiteApfel-PyQiwiP2P-33350343-894/reject "HTTP/1.1 200 OK"
+10/26/2023 06:19:06 PM : _client.py line - 1013 : _send_single_request : httpx : INFO : HTTP Request: PUT https://api.qiwi.com/partner/bill/v1/bills/WhiteApfel-PyQiwiP2P-33354661-196 "HTTP/1.1 200 OK"
+10/26/2023 06:22:01 PM : _client.py line - 1013 : _send_single_request : httpx : INFO : HTTP Request: PUT https://api.qiwi.com/partner/bill/v1/bills/WhiteApfel-PyQiwiP2P-33372120-702 "HTTP/1.1 200 OK"
+10/26/2023 06:22:29 PM : _client.py line - 1013 : _send_single_request : httpx : INFO : HTTP Request: POST https://api.qiwi.com/partner/bill/v1/bills/WhiteApfel-PyQiwiP2P-33372120-702/reject "HTTP/1.1 200 OK"
+10/26/2023 06:32:01 PM : updates.py line - 344 : _update_loop : telethon.client.updates : INFO : Got difference for account updates
+10/26/2023 06:32:42 PM : updates.py line - 442 : _update_loop : telethon.client.updates : INFO : Got difference for channel 1895930871 updates
+10/26/2023 06:32:42 PM : updates.py line - 442 : _update_loop : telethon.client.updates : INFO : Got difference for channel 1895930871 updates
+10/26/2023 06:34:01 PM : updates.py line - 321 : _update_loop : telethon.client.updates : INFO : Cannot get difference since the account is not logged in: AuthKeyDuplicatedError
+10/26/2023 06:34:01 PM : mtprotosender.py line - 319 : _disconnect : telethon.network.mtprotosender : INFO : Disconnecting from 149.154.167.51:443/TcpFull...
+10/26/2023 06:34:01 PM : mtprotosender.py line - 339 : _disconnect : telethon.network.mtprotosender : INFO : Disconnection from 149.154.167.51:443/TcpFull complete!
